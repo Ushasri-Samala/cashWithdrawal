@@ -1,0 +1,64 @@
+/* Write your CSS here */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.cash-withdrawal-container {
+  padding: 20px;
+  border-radius: 15px;
+  background-color: #150b3e;
+}
+.profile-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.display-picture {
+  padding: 20px;
+  border-radius: 100px;
+  background-color: #c7d2fe;
+  color: #7c3aed;
+}
+.display-name {
+  color: #d4d2db;
+  margin-left: 20px;
+  font-family: 'Roboto';
+}
+.balance-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.balance-name {
+  color: #585076;
+  font-family: 'Roboto';
+}
+.balance-amount {
+  color: white;
+  font-family: 'Roboto';
+  font-size: 24px;
+}
+.balance-rupees {
+  color: #585076;
+  font-family: 'Roboto';
+  font-size: 10px;
+}
+.withdraw {
+  color: white;
+  font-family: 'Roboto';
+  font-size: 28px;
+}
+.sum-heading {
+  color: #585076;
+  font-family: 'Roboto';
+  font-size: 16px;
+}
+.list-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  list-style-type: none;
+}

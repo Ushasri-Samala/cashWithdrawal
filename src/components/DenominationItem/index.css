@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.denomination-coontainer {
+}
+.button {
+  background-color: #585076;
+  color: white;
+  border-radius: 10px;
+  border: 1px solid white;
+  font-family: 'Roboto';
+  cursor: pointer;
+  outline: none;
+}
